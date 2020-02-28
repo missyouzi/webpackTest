@@ -1,0 +1,7 @@
+h1 {
+  color: #f00;
+}
+
+h1 .title {
+  color: yellow !important;
+}
